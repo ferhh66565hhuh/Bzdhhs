@@ -5,4 +5,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ferhh66565hhuh/Bzdhhs.git
 git push -u origin main
+
 warp://188.114.98.240:889?ifp=45-55&ifps=55-65&ifpd=65-75&ifpm=m4#l1&&detour=warp://188.114.98.240:889?ifp=45-55&ifps=55-65&ifpd=65-75&ifpm=m4#l2
